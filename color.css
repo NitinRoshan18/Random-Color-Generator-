@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+h3 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+body > button {
+  width: 15%;
+  margin-bottom: 20px;
+}
+div {
+  border: 2px solid black;
+  width: 400px;
+  height: 200px;
+}
